@@ -1,1 +1,1 @@
-# invatare_nesupervizata_public
+# Învățare nesupervizată din video-uri (codul sursa)
