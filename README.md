@@ -1,1 +1,1 @@
-# Învățare nesupervizată din video-uri (codul sursa)
+# Învățare nesupervizată din video-uri
